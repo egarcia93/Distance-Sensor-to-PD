@@ -3,6 +3,6 @@ y transmitirlo vía serial a PureData
 Las dependencias del objeto [arduino-receiver] a instalar con Deken son:
 <ul>
     <li>[comport] Se encuentra individual. Subido por iembot</li>
-    <li>[group],[symbol2any] Se encuentra en [else](https://github.com/porres/pd-else). Biblioteca mantenida por Alexandre Torres Porres</li>
+    <li>[group],[symbol2any] Se encuentra en [else]<https://github.com/porres/pd-else>. Biblioteca mantenida por Alexandre Torres Porres</li>
 
 </ul>
